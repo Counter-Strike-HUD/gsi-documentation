@@ -6,3 +6,6 @@ List of the features:
 1. [Config](./CONFIG.md)
 2. [Data structure](./STRUCTURE.md)
 3. [AMXX commands](./AMXX.md)
+
+
+Example dump: [cgsi-data.json](./csgsi-data.json)
